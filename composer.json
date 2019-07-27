@@ -1,0 +1,10 @@
+{
+    "name": "mostaq/modern-php",
+    "description": "Modern PHP",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "TT\\":"Src"
+        }
+    }
+}
